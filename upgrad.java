@@ -13,7 +13,7 @@ public class upgrad {
 		int i, no_of_events = in.nextInt();
 		
 		upgrad object = new upgrad();
-		
+		//HELLO
 		//taking input
 		for(i=0;i<no_of_events;i++) {
 			event.add(in.next());
